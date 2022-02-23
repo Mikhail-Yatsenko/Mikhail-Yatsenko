@@ -1,4 +1,9 @@
 ### Hi there 👋
+I am a Frontend developer. <br>
+I work with technologies like React and React Native in conjunction with other libraries.
+
+#### This is my code wars rank
+<img src=https://www.codewars.com/users/mikhail_/badges/large>
 
 <!--
 **Mikhail-Yatsenko/Mikhail-Yatsenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
