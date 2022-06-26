@@ -32,7 +32,7 @@ I work with technologies like React and React Native.
 
 ### Contact me
 [![Telegram](https://img.shields.io/badge/-Telegram-000?style=flat-square&logo=Telegram)](https://www.t.me/Mikhail_Y098)
-[![Linkedin](https://img.shields.io/badge/-Linkedin-0a66c2?style=flat-square&logo=Linkedin)](https://linkedin.com/in/Mikhail-Y096)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-0a66c2?style=flat-square&logo=Linkedin)](https://linkedin.com/in/Mikhail-Y098)
 
 <!--
 **Mikhail-Yatsenko/Mikhail-Yatsenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
